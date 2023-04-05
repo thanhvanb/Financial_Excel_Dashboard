@@ -30,4 +30,17 @@ This is my self-study project to build dashboard with Excel. There are four dash
 
 4. The fourth dashboard for a project's workflow report,with the several main KPIs in a beautiful design updatable directly from data-table.
 
+![Screenshot 2023-04-05 072302](https://user-images.githubusercontent.com/52117939/230035000-46956bdd-5a3b-4dd1-a6af-ac331dc2ca8c.png)
+
+![Screenshot 2023-04-05 072359](https://user-images.githubusercontent.com/52117939/230035031-9767c001-def1-4d81-ad7f-08d4c1ac3b1d.png)
+
+![Screenshot 2023-04-05 072924](https://user-images.githubusercontent.com/52117939/230035078-717c90a3-1392-42f0-a38f-fe20451aac08.png)
+
+![Screenshot 2023-04-05 073134](https://user-images.githubusercontent.com/52117939/230035111-c46acf4b-7576-47c8-9a25-0511aac6cef0.png)
+
+![Screenshot 2023-04-05 073322](https://user-images.githubusercontent.com/52117939/230035153-1283cdf1-56ac-4c6e-83c5-9579f5c4b08d.png)
+
+![Screenshot 2023-04-05 073701](https://user-images.githubusercontent.com/52117939/230035185-760c566d-1818-4af4-bbe8-830410e7eae0.png)
+
+
 
