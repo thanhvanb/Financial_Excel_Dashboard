@@ -29,3 +29,5 @@ This is my self-study project to build dashboard with Excel. There are four dash
 - Bar chart for orders by points of sales.
 
 4. The fourth dashboard for a project's workflow report,with the several main KPIs in a beautiful design updatable directly from data-table.
+
+
